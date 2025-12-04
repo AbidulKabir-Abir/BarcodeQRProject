@@ -17,21 +17,9 @@ A Python GUI app to generate **Barcode (Code128)** and **QR Code** from text and
 - OpenCV
 - pyzbar
 
-## Installation
-1. Clone repo:
-```bash
-git clone https://github.com/AbidulKabir-Abir/BarcodeQRProject.git
-cd BarcodeQRProject
-
-pip install -r requirements.txt
-python main.py
-### Installation
-
 ---
 
-## **2. Use Cases / How to Use**
-
-```markdown
+## ** Use Cases / How to Use**
 ### Use Cases
 
 1. **Generate Barcode**  
@@ -50,3 +38,12 @@ python main.py
    - A popup will show the detected code
 
 
+## Installation
+1. Clone repo:
+```bash
+git clone https://github.com/AbidulKabir-Abir/BarcodeQRProject.git
+cd BarcodeQRProject
+
+pip install -r requirements.txt
+python main.py
+### Installation
