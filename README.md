@@ -39,13 +39,13 @@ A Python GUI app to generate **Barcode (Code128)** and **QR Code** from text and
 
 
 ## Installation
-1. Clone repo:
-### Installation
+Clone repo:
 ```bash
 git clone https://github.com/AbidulKabir-Abir/BarcodeQRProject.git
 cd BarcodeQRProject
 
 pip install -r requirements.txt
 python main.py
+
 
 
