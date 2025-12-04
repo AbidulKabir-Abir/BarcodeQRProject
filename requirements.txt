@@ -1,0 +1,5 @@
+python-barcode
+qrcode
+Pillow
+opencv-python
+pyzbar
