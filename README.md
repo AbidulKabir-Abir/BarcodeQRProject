@@ -20,5 +20,33 @@ A Python GUI app to generate **Barcode (Code128)** and **QR Code** from text and
 ## Installation
 1. Clone repo:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AbidulKabir-Abir/BarcodeQRProject.git
 cd BarcodeQRProject
+
+pip install -r requirements.txt
+python main.py
+### Installation
+
+---
+
+## **2. Use Cases / How to Use**
+
+```markdown
+### Use Cases
+
+1. **Generate Barcode**  
+   - Enter text (example: "123456")  
+   - Click **Generate Barcode**  
+   - Barcode image is saved in `generated_codes` and displayed in the GUI
+
+2. **Generate QR Code**  
+   - Enter text (example: "https://example.com")  
+   - Click **Generate QR Code**  
+   - QR code image is saved and displayed in the GUI
+
+3. **Scan Barcode or QR Code**  
+   - Click **Scan Barcode/QR from Image**  
+   - Select an image with a barcode/QR code  
+   - A popup will show the detected code
+
+
